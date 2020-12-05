@@ -30,6 +30,8 @@ p.content {
   margin-top: 0;
   margin-right: 26px;
   font-size: 1.5em;
+  width: 100px;
+  text-align: center;
 }
 .chicken {
   background-color: #237A99;
