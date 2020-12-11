@@ -15,9 +15,9 @@ of the window */
 
 }
 
-@media (min-width: 700px) {
-	.not-visible {
-		visibility: hidden;
+	@media (min-width: 700px) {
+		.not-visible {
+			visibility: hidden;
+		}
 	}
-}
 
