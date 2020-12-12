@@ -31,9 +31,3 @@ ul#nav-list li a:hover {
 
 }
 
-	@media (min-width: 700px) {
-		.not-visible {
-			visibility: hidden;
-		}
-	}
-
