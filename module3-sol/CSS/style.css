@@ -1,33 +1,26 @@
 
-
-
-ul {
-	text-align: center;
-}
-
-
-.container {
-/*Setting the margin here makes keeps everything close to the left 
-of the window */
-	margin: 10px 20px;
-	padding: 0;
-}
 ul#nav-list li a, ul#nav-list li a:visited {
 	color: #FFF;
 }
 ul#nav-list li a:hover {
 	color: #3362B7;
 }
-.navbar-brand a:hover {
-	text-decoration: none;
-	font-weight: bold;
-
+.nav-item {
+	background-color: gray;
+	border: 1px solid black;
 }
-
 #header-nav {
 	background-color: #333;
 	border-radius: 0;
 	border: 0;
-
 }
 
+.navbar-brand a:hover {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.container {
+	background-color: #333;
+	color: #fff;
+}
